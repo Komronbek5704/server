@@ -1,0 +1,8 @@
+{
+    "posts": [
+      { "id": 1, "type": "chair", "name": "Office Chair", "price": 100 },
+      { "id": 2, "type": "table", "name": "Dining Table", "price": 300 },
+      { "id": 3, "type": "chair", "name": "Dining Chair", "price": 50 },
+      { "id": 4, "type": "table", "name": "Coffee Table", "price": 150 }
+    ]
+  }
